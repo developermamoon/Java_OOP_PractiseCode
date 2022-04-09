@@ -1,0 +1,2 @@
+Static_variable.static2
+Static_variable.static_variable_2
